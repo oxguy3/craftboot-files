@@ -1,0 +1,12 @@
+{
+  "minimumVersion": 1, 
+  "packages": [
+    {
+      "name": "vanilla_1.7.5", 
+      "title": "Vanilla (1.7.5)", 
+      "version": "1.7.5", 
+      "location": "vanilla_1.7.5/manifest.json", 
+      "priority": 1
+    }
+  ]
+}
