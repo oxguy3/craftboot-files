@@ -12,6 +12,7 @@ For sake of convenience, this is an index of the github.io URLs of all the files
 * [launcher/](//oxguy3.github.io/craftboot-files/launcher/)
     * [versions/](//oxguy3.github.io/craftboot-files/launcher/versions/)
         * [4.2.2.jar.pack](//oxguy3.github.io/craftboot-files/launcher/versions/4.2.2.jar.pack)
+        * [4.2.3.jar.pack](//oxguy3.github.io/craftboot-files/launcher/versions/4.2.3.jar.pack)
     * [latest](//oxguy3.github.io/craftboot-files/launcher/latest)
     * [latest.json](//oxguy3.github.io/craftboot-files/launcher/latest.json)
 * [vanilla_1.7.5/](//oxguy3.github.io/craftboot-files/feed/vanilla_1.7.5/)
