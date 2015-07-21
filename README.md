@@ -14,9 +14,9 @@ For sake of convenience, this is an index of the github.io URLs of all the files
         * lots of .jar.pack files
     * [latest](//oxguy3.github.io/craftboot-files/launcher/latest)
     * [latest.json](//oxguy3.github.io/craftboot-files/launcher/latest.json)
-* [vanilla_1.7.5/](//oxguy3.github.io/craftboot-files/feed/vanilla_1.7.5/)
-    * [manifest.json](//oxguy3.github.io/craftboot-files/feed/vanilla_1.7.5/manifest.json)
-* [vanilla_1.7.8/](//oxguy3.github.io/craftboot-files/feed/vanilla_1.7.8/)
-    * [manifest.json](//oxguy3.github.io/craftboot-files/feed/vanilla_1.7.8/manifest.json)
+* [vanilla_1.7.5/](//oxguy3.github.io/craftboot-files/vanilla_1.7.5/)
+    * [manifest.json](//oxguy3.github.io/craftboot-files/vanilla_1.7.5/manifest.json)
+* [vanilla_1.7.8/](//oxguy3.github.io/craftboot-files/vanilla_1.7.8/)
+    * [manifest.json](//oxguy3.github.io/craftboot-files/vanilla_1.7.8/manifest.json)
 * [launcher.properties](//oxguy3.github.io/craftboot-files/launcher.properties)
 * [packages.json](//oxguy3.github.io/craftboot-files/packages.json)
